@@ -18,6 +18,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=ghourabikhouloud)
+[![](https://visitcount.itsvg.in/api?id=ghourabikhouloud&icon=5&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
